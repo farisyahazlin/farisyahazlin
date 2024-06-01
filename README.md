@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farisyahazlin
 - 👀 I’m interested in graphic design,arts and multimedia ...
 - 🌱 Bachelor of Computer Science (Software Engineering) with Honours
-- ⚡ Future director Iseal Company (Government Linked)
+- ⚡ Director of Iseal Company (Government Linked)
 - 📫 How to reach me @_fhzln on IG...
 - 😄 Pronouns: iman
 - 💞️ Fun fact: I don't like veggies
