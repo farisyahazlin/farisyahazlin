@@ -22,6 +22,7 @@
 - **Tech**: C++, HTML, CSS, JavaScript, Python  
 - **Media**: Photography (events/sports/educations/weddings), Videography, Storyboarding, Creative Directing, Graphic Design, Editing)
 
+---
 
 ### 🧠 Interests
 - 🎬 Creative Directing & Media Production 
