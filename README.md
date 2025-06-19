@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @farisyahazlin
-- 👀 I’m interested in graphic design,arts and multimedia ...
+- 👋 @_fhzln (farisya hazlin)
 - 🌱 Bachelor of Computer Science (Software Engineering) with Honours
-- ⚡ Director of Iseal Company (Government Linked)
-- 📫 How to reach me @_fhzln on IG...
-- 😄 Pronouns: iman
-- 💞️ Fun fact: I don't like veggies
-- MY CURRENT ACTIVITIES:
--        Editor & Exco Graphic Design Sakura Seisaku Club UTMKL
+
+---
+
+📷 Connect with Me
+- Instagram: [@_fhzln](https://instagram.com/_fhzln) | [@fhzln.ilham](https://instagram.com/fhzln.ilham)  
+- GitHub: [@farisyahazlin] (https://github.com/farisyahazlin)  
+- Email: farisyahazlin@gmail.com | fhzln.ilham@gmail.com 
+
+---
+
+💼 Current Involvements
+- 🎨 **Creative Director** – Sakura Seisaku Club, UTMKL  
+- 🥋 **Active Member** – UTMKL Silat Fighters Combat & Silat Seni Tunggal 
+
+---
+
+### 🛠️ Skills & Tools
+
+- **Creative**: Photoshop, Lightroom, DaVinci Resolve(Beginner), Figma  
+- **Tech**: C++, HTML, CSS, JavaScript, Python  
+- **Media**: Photography (events/sports/educations/weddings), Videography, Storyboarding, Creative Directing, Graphic Design, Editing)
+
+
+### 🧠 Interests
+- 🎬 Creative Directing & Media Production 
+- 💡 UI/UX Design & Interactive Design 
+- ✨ Storytelling through visuals and motion
+- 🧵 Club Leadership, Martial Arts, Event Media
+
 
 <!---
 farisyahazlin/farisyahazlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
