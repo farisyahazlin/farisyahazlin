@@ -7,7 +7,7 @@ FARISYA HAZLIN
 👩‍💻 About Me
 I am a Software Engineering student with a strong passion for combining technology and creativity.
 With a background in programming and system development, alongside experience in creative directing and media production, I enjoy building digital solutions that are both functional and visually engaging.
-
+---
 Currently preparing for my Industrial Training (Internship) and seeking opportunities in:
 💻 Software Engineering
 🌐 Web Development
